@@ -40,6 +40,7 @@ Tool	Purpose
 🐍 Python (Pandas)	Calendar lookup creation and preprocessing
 📘 Excel / CSV	Raw data source
 🎨 Data Storytelling	Dashboard design and user experience
+
 💡 Key Insights
 
 📆 Consistent sales growth from 2016–2019.
