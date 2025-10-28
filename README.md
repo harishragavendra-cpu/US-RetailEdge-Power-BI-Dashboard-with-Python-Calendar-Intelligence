@@ -17,6 +17,7 @@ Key Dashboards:
 
 🌍 Territory Insights – Regional, state, and city-level sales mapping.
 
+
 🐍 Python Integration
 
 Used Python (Pandas) to create a Calendar Lookup Table for time intelligence in Power BI.
